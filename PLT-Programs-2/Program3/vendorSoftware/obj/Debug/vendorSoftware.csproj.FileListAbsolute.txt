@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program3\vendorSoftware\bin\Debug\vendorSoftware.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program3\vendorSoftware\bin\Debug\vendorSoftware.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program3\vendorSoftware\bin\Debug\vendorSoftware.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program3\vendorSoftware\obj\Debug\vendorSoftware.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program3\vendorSoftware\obj\Debug\vendorSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program3\vendorSoftware\obj\Debug\vendorSoftware.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program3\vendorSoftware\obj\Debug\vendorSoftware.pdb

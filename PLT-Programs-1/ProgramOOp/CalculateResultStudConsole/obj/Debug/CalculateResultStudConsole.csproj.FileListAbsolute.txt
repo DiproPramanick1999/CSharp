@@ -1,0 +1,10 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\bin\Debug\CalculateResultStudConsole.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\bin\Debug\CalculateResultStudConsole.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\bin\Debug\CalculateResultStudConsole.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\bin\Debug\XYZUniversity.ResuktCalculator.dll
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\bin\Debug\XYZUniversity.ResuktCalculator.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\obj\Debug\CalculateResultStudConsole.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\obj\Debug\CalculateResultStudConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\obj\Debug\CalculateResultStudConsole.csproj.CopyComplete
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\obj\Debug\CalculateResultStudConsole.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\CalculateResultStudConsole\obj\Debug\CalculateResultStudConsole.pdb

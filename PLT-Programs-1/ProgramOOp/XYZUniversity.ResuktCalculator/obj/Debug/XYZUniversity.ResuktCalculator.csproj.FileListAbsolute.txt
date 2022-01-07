@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\XYZUniversity.ResuktCalculator\bin\Debug\XYZUniversity.ResuktCalculator.dll
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\XYZUniversity.ResuktCalculator\bin\Debug\XYZUniversity.ResuktCalculator.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\XYZUniversity.ResuktCalculator\obj\Debug\XYZUniversity.ResuktCalculator.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\XYZUniversity.ResuktCalculator\obj\Debug\XYZUniversity.ResuktCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\XYZUniversity.ResuktCalculator\obj\Debug\XYZUniversity.ResuktCalculator.dll
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\XYZUniversity.ResuktCalculator\obj\Debug\XYZUniversity.ResuktCalculator.pdb

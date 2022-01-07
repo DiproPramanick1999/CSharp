@@ -1,0 +1,13 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\bin\Debug\StudentCalAppDesktop.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\bin\Debug\StudentCalAppDesktop.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\bin\Debug\StudentCalAppDesktop.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.Form1.resources
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.Properties.Resources.resources
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.csproj.GenerateResource.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\bin\Debug\XYZUniversity.ResuktCalculator.dll
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\bin\Debug\XYZUniversity.ResuktCalculator.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentCalAppDesktop\obj\Debug\StudentCalAppDesktop.csproj.CopyComplete

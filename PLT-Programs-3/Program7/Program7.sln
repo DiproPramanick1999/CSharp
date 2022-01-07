@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sequence", "sequence\sequence.csproj", "{DEEFA33C-BB4D-42BA-B75A-AAF31AA5A5CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEFA33C-BB4D-42BA-B75A-AAF31AA5A5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEFA33C-BB4D-42BA-B75A-AAF31AA5A5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEFA33C-BB4D-42BA-B75A-AAF31AA5A5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEFA33C-BB4D-42BA-B75A-AAF31AA5A5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DB4F4B-FF30-4CAB-A4E0-25E259BFC3E4}
+	EndGlobalSection
+EndGlobal

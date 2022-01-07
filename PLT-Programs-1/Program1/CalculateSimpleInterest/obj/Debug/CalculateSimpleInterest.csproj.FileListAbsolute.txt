@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\Program1\CalculateSimpleInterest\bin\Debug\CalculateSimpleInterest.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\Program1\CalculateSimpleInterest\bin\Debug\CalculateSimpleInterest.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program1\CalculateSimpleInterest\bin\Debug\CalculateSimpleInterest.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\Program1\CalculateSimpleInterest\obj\Debug\CalculateSimpleInterest.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program1\CalculateSimpleInterest\obj\Debug\CalculateSimpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program1\CalculateSimpleInterest\obj\Debug\CalculateSimpleInterest.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program1\CalculateSimpleInterest\obj\Debug\CalculateSimpleInterest.pdb

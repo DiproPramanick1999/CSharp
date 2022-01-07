@@ -1,0 +1,14 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program12\SpecialSequence\bin\Debug\SpecialSequence.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program12\SpecialSequence\bin\Debug\SpecialSequence.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program12\SpecialSequence\bin\Debug\SpecialSequence.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program12\SpecialSequence\obj\Debug\SpecialSequence.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program12\SpecialSequence\obj\Debug\SpecialSequence.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program12\SpecialSequence\obj\Debug\SpecialSequence.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program12\SpecialSequence\obj\Debug\SpecialSequence.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program8\SpecialSequence\bin\Debug\SpecialSequence.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program8\SpecialSequence\bin\Debug\SpecialSequence.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program8\SpecialSequence\bin\Debug\SpecialSequence.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program8\SpecialSequence\obj\Debug\SpecialSequence.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program8\SpecialSequence\obj\Debug\SpecialSequence.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program8\SpecialSequence\obj\Debug\SpecialSequence.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program8\SpecialSequence\obj\Debug\SpecialSequence.pdb

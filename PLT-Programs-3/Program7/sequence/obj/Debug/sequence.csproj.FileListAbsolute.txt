@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\source\repos\Program11\sequence\bin\Debug\sequence.exe.config
+C:\Users\Dipro Pramanick\source\repos\Program11\sequence\bin\Debug\sequence.exe
+C:\Users\Dipro Pramanick\source\repos\Program11\sequence\bin\Debug\sequence.pdb
+C:\Users\Dipro Pramanick\source\repos\Program11\sequence\obj\Debug\sequence.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\source\repos\Program11\sequence\obj\Debug\sequence.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\source\repos\Program11\sequence\obj\Debug\sequence.exe
+C:\Users\Dipro Pramanick\source\repos\Program11\sequence\obj\Debug\sequence.pdb

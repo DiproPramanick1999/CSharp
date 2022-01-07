@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program9\PrimeSum\bin\Debug\PrimeSum.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program9\PrimeSum\bin\Debug\PrimeSum.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program9\PrimeSum\bin\Debug\PrimeSum.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program9\PrimeSum\obj\Debug\PrimeSum.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program9\PrimeSum\obj\Debug\PrimeSum.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program9\PrimeSum\obj\Debug\PrimeSum.pdb

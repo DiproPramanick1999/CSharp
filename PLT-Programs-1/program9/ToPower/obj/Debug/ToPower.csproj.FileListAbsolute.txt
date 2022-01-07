@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\program9\ToPower\bin\Debug\ToPower.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\program9\ToPower\bin\Debug\ToPower.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\program9\ToPower\bin\Debug\ToPower.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\program9\ToPower\obj\Debug\ToPower.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\program9\ToPower\obj\Debug\ToPower.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\program9\ToPower\obj\Debug\ToPower.pdb

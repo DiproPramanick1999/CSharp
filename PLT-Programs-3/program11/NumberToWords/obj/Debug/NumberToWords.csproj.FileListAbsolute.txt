@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program11\NumberToWords\bin\Debug\NumberToWords.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program11\NumberToWords\bin\Debug\NumberToWords.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program11\NumberToWords\bin\Debug\NumberToWords.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program11\NumberToWords\obj\Debug\NumberToWords.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program11\NumberToWords\obj\Debug\NumberToWords.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program11\NumberToWords\obj\Debug\NumberToWords.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program11\NumberToWords\obj\Debug\NumberToWords.pdb

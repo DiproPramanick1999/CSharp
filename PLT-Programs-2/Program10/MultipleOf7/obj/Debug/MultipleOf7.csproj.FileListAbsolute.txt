@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\source\repos\Program10\MultipleOf7\bin\Debug\MultipleOf7.exe.config
+C:\Users\Dipro Pramanick\source\repos\Program10\MultipleOf7\bin\Debug\MultipleOf7.exe
+C:\Users\Dipro Pramanick\source\repos\Program10\MultipleOf7\bin\Debug\MultipleOf7.pdb
+C:\Users\Dipro Pramanick\source\repos\Program10\MultipleOf7\obj\Debug\MultipleOf7.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\source\repos\Program10\MultipleOf7\obj\Debug\MultipleOf7.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\source\repos\Program10\MultipleOf7\obj\Debug\MultipleOf7.exe
+C:\Users\Dipro Pramanick\source\repos\Program10\MultipleOf7\obj\Debug\MultipleOf7.pdb

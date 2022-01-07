@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-1\ClassWork\OOPS3\Demo3\bin\Debug\Demo3.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-1\ClassWork\OOPS3\Demo3\bin\Debug\Demo3.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-1\ClassWork\OOPS3\Demo3\bin\Debug\Demo3.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-1\ClassWork\OOPS3\Demo3\obj\Debug\Demo3.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-1\ClassWork\OOPS3\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-1\ClassWork\OOPS3\Demo3\obj\Debug\Demo3.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-1\ClassWork\OOPS3\Demo3\obj\Debug\Demo3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\program10\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\program10\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\program10\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\program10\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\program10\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\program10\Palindrome\obj\Debug\Palindrome.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\Program7\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\Program7\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program7\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\Program7\BinaryToDecimal\obj\Debug\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program7\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program7\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

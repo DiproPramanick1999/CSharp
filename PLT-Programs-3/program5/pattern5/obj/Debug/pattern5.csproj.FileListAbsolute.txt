@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program5\pattern5\obj\Debug\pattern5.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program5\pattern5\bin\Debug\pattern5.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program5\pattern5\bin\Debug\pattern5.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program5\pattern5\bin\Debug\pattern5.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program5\pattern5\obj\Debug\pattern5.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program5\pattern5\obj\Debug\pattern5.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program5\pattern5\obj\Debug\pattern5.csproj.AssemblyReference.cache

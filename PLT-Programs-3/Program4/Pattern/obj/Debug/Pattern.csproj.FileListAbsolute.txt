@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\Program4\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\Program4\Pattern\bin\Debug\Pattern.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\Program4\Pattern\bin\Debug\Pattern.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\Program4\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\Program4\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\Program4\Pattern\obj\Debug\Pattern.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\Program4\Pattern\obj\Debug\Pattern.pdb

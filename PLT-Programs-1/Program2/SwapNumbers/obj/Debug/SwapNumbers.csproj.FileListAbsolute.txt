@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\Program2\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\Program2\SwapNumbers\bin\Debug\SwapNumbers.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program2\SwapNumbers\bin\Debug\SwapNumbers.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\Program2\SwapNumbers\obj\Debug\SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program2\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program2\SwapNumbers\obj\Debug\SwapNumbers.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program2\SwapNumbers\obj\Debug\SwapNumbers.pdb

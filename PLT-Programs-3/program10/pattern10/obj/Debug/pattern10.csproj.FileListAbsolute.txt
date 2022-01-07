@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program10\pattern10\bin\Debug\pattern10.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program10\pattern10\bin\Debug\pattern10.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program10\pattern10\bin\Debug\pattern10.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program10\pattern10\obj\Debug\pattern10.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program10\pattern10\obj\Debug\pattern10.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program10\pattern10\obj\Debug\pattern10.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program10\pattern10\obj\Debug\pattern10.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\Program4\WholeFractional\bin\Debug\WholeFractional.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\Program4\WholeFractional\bin\Debug\WholeFractional.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program4\WholeFractional\bin\Debug\WholeFractional.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\Program4\WholeFractional\obj\Debug\WholeFractional.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program4\WholeFractional\obj\Debug\WholeFractional.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program4\WholeFractional\obj\Debug\WholeFractional.pdb

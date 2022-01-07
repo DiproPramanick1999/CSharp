@@ -1,0 +1,10 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\bin\Debug\StudentResultCalConsoleApp.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\bin\Debug\StudentResultCalConsoleApp.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\bin\Debug\StudentResultCalConsoleApp.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\bin\Debug\XYZUniversity.ResuktCalculator.dll
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\bin\Debug\XYZUniversity.ResuktCalculator.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\obj\Debug\StudentResultCalConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\obj\Debug\StudentResultCalConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\obj\Debug\StudentResultCalConsoleApp.csproj.CopyComplete
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\obj\Debug\StudentResultCalConsoleApp.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\ProgramOOp\StudentResultCalConsoleApp\obj\Debug\StudentResultCalConsoleApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\Programs\Program5\Expression\bin\Debug\Expression.exe.config
+C:\Users\Dipro Pramanick\Desktop\Programs\Program5\Expression\bin\Debug\Expression.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program5\Expression\bin\Debug\Expression.pdb
+C:\Users\Dipro Pramanick\Desktop\Programs\Program5\Expression\obj\Debug\Expression.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program5\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\Programs\Program5\Expression\obj\Debug\Expression.exe
+C:\Users\Dipro Pramanick\Desktop\Programs\Program5\Expression\obj\Debug\Expression.pdb

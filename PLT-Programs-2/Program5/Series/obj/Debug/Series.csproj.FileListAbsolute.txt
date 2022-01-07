@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program5\Series\obj\Debug\Series.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program5\Series\obj\Debug\Series.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program5\Series\bin\Debug\Series.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program5\Series\bin\Debug\Series.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program5\Series\bin\Debug\Series.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program5\Series\obj\Debug\Series.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program5\Series\obj\Debug\Series.pdb

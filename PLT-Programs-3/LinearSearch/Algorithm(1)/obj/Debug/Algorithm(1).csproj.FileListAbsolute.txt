@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\LinearSearch\Algorithm(1)\obj\Debug\Algorithm(1).csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\LinearSearch\Algorithm(1)\obj\Debug\Algorithm(1).csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\LinearSearch\Algorithm(1)\bin\Debug\Algorithm(1).exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\LinearSearch\Algorithm(1)\bin\Debug\Algorithm(1).exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\LinearSearch\Algorithm(1)\bin\Debug\Algorithm(1).pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\LinearSearch\Algorithm(1)\obj\Debug\Algorithm(1).exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\LinearSearch\Algorithm(1)\obj\Debug\Algorithm(1).pdb

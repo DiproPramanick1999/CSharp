@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program2\StdNameScore\bin\Debug\StdNameScore.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program2\StdNameScore\bin\Debug\StdNameScore.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program2\StdNameScore\bin\Debug\StdNameScore.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program2\StdNameScore\obj\Debug\StdNameScore.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program2\StdNameScore\obj\Debug\StdNameScore.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program2\StdNameScore\obj\Debug\StdNameScore.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\program2\StdNameScore\obj\Debug\StdNameScore.pdb

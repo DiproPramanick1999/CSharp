@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program6\factorial\bin\Debug\factorial.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program6\factorial\bin\Debug\factorial.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program6\factorial\bin\Debug\factorial.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program6\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program6\factorial\obj\Debug\factorial.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program6\factorial\obj\Debug\factorial.pdb

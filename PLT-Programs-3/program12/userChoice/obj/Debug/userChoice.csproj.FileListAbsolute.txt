@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program12\userChoice\bin\Debug\userChoice.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program12\userChoice\bin\Debug\userChoice.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program12\userChoice\bin\Debug\userChoice.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program12\userChoice\obj\Debug\userChoice.csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program12\userChoice\obj\Debug\userChoice.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program12\userChoice\obj\Debug\userChoice.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\program12\userChoice\obj\Debug\userChoice.pdb

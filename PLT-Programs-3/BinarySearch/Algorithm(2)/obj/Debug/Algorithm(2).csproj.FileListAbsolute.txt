@@ -1,0 +1,7 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\BinarySearch\Algorithm(2)\bin\Debug\Algorithm(2).exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\BinarySearch\Algorithm(2)\bin\Debug\Algorithm(2).exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\BinarySearch\Algorithm(2)\bin\Debug\Algorithm(2).pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\BinarySearch\Algorithm(2)\obj\Debug\Algorithm(2).csproj.AssemblyReference.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\BinarySearch\Algorithm(2)\obj\Debug\Algorithm(2).csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\BinarySearch\Algorithm(2)\obj\Debug\Algorithm(2).exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-3\BinarySearch\Algorithm(2)\obj\Debug\Algorithm(2).pdb

@@ -1,0 +1,6 @@
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program8\OddSumN\bin\Debug\OddSumN.exe.config
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program8\OddSumN\bin\Debug\OddSumN.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program8\OddSumN\bin\Debug\OddSumN.pdb
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program8\OddSumN\obj\Debug\OddSumN.csproj.CoreCompileInputs.cache
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program8\OddSumN\obj\Debug\OddSumN.exe
+C:\Users\Dipro Pramanick\Desktop\PLT-Programs-2\Program8\OddSumN\obj\Debug\OddSumN.pdb

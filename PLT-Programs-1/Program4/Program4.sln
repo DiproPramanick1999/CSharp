@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WholeFractional", "WholeFractional\WholeFractional.csproj", "{6D200F10-8750-44DB-A536-93744A2B04A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D200F10-8750-44DB-A536-93744A2B04A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D200F10-8750-44DB-A536-93744A2B04A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D200F10-8750-44DB-A536-93744A2B04A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D200F10-8750-44DB-A536-93744A2B04A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD15C6A4-6CD4-4F90-B97E-4D6DE59A006D}
+	EndGlobalSection
+EndGlobal
